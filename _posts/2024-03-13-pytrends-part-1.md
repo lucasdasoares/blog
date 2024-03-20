@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ciência de Dados: A Biblioteca PyTrends - Parte 1"
+title:  "Aplicações de Ciência de Dados: Google Trends"
 subtitle: "Utilize o Google Trends nas suas previsões"
 date:   2024-03-13 00:00:00 -0300
 categories: data_science pytrends
